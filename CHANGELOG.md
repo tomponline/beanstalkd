@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [1.12] - 2020-06-04
 
 - add support of UNIX domain sockets
 - add support of Solaris/illumos
